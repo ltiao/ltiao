@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Gaussian processes](GaussianProcessPosteriorPredictive_ManimCE_v0.9.0.gif "Gaussian processes")
